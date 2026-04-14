@@ -1,0 +1,42 @@
+feature_1: Policyholder's credit score
+feature_2: Policyholder's income level
+feature_3: Number of previous insurance policies
+feature_4: Number of dependents
+feature_5: Marital status (encoded as numerical value)
+feature_6: Type of residence (e.g., owned, rented)
+feature_7: Employment status (encoded as numerical value)
+feature_8: Years with current employer
+feature_9: Distance to work (in kilometers)
+feature_10: Average annual mileage of the vehicle
+feature_11: Vehicle's safety rating
+feature_12: Vehicle's market value
+feature_13: Number of traffic violations
+feature_14: History of DUI (Driving Under Influence) offenses
+feature_15: Vehicle's fuel type (encoded as numerical value)
+feature_16: Vehicle's engine capacity
+feature_17: Anti-theft devices installed (encoded as numerical value)
+feature_18: Garage type (e.g., indoor, outdoor)
+feature_19: Location risk factor (based on crime rates in the area)
+feature_20: Weather-related risk factor (based on local climate)
+feature_21: Policy deductible amount
+feature_22: Coverage type (e.g., basic, comprehensive)
+feature_23: Coverage limit
+feature_24: Frequency of policy renewals
+feature_25: Number of policy add-ons (e.g., roadside assistance, rental car coverage)
+feature_26: Customer loyalty score
+feature_27: Number of claims in the past five years
+feature_28: Total claim amount in the past five years
+feature_29: Policyholder's education level (encoded as numerical value)
+feature_30: Policyholder's health status (encoded as numerical value)
+feature_31: Presence of garage (encoded as numerical value)
+feature_32: Home ownership status (encoded as numerical value)
+feature_33: Policyholder's driving experience (in years)
+feature_34: Vehicle's age at the time of purchase
+feature_35: Annual maintenance cost of the vehicle
+feature_36: Insurance agent's rating (encoded as numerical value)
+feature_37: Customer service interaction frequency
+feature_38: Average response time of the insurance company
+feature_39: Number of previous insurance providers
+feature_40: Duration of the current insurance policy
+feature_41: Any modifications to the vehicle (encoded as numerical value)
+feature_42: Usage of telematics devices (encoded as numerical value)
