@@ -44,7 +44,7 @@ After extensive training and hyperparameter tuning, the models achieved the foll
 | :--- | :--- | :--- |
 | **Linear Regression** | 0.9999 | 52,442 |
 | **Stacking Regressor** | 0.9999 | 52,343 |
-| Gradient Boosting (Tuned) | 0.9997 | 195,348 |
+| Gradient Boosting  | 0.9997 | 195,348 |
 | Random Forest | 0.9994 | 434,786 |
 | Decision Tree | 0.9988 | 834,200 |
 
