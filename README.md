@@ -66,5 +66,5 @@ After extensive training and hyperparameter tuning, the models achieved the foll
 ├── insurance_dataset.csv  # Dataset used for training and testing
 ├── features.txt           # Description of the dataset features
 ├── README.md              # Project documentation
-└── Insurance_Domain.ipynb # Jupyter Notebook with EDA and training logic
+└── InsuranceClaimPrediction.ipynb # Jupyter Notebook with EDA and training logic
 
