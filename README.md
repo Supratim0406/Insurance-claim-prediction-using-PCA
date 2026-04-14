@@ -56,7 +56,6 @@ After extensive training and hyperparameter tuning, the models achieved the foll
 
 * **Pipeline Architecture:** Uses `sklearn.pipeline.Pipeline` to chain preprocessing (StandardScaler, OneHotEncoder) and modeling steps, preventing data leakage.
 * **Ensemble Learning:** Implements **Voting Regressor** and **Stacking Regressor** to combine the strengths of multiple models.
-* **Hyperparameter Tuning:** Utilizes `GridSearchCV` to optimize the Gradient Boosting model.
 * **Interactive UI:** Features a Gradio interface that maps user-friendly inputs (e.g., "Credit Score") to the model's expected feature names (e.g., `feature_1`).
 
 ##  Project Structure
@@ -67,4 +66,6 @@ After extensive training and hyperparameter tuning, the models achieved the foll
 ├── features.txt           # Description of the dataset features
 ├── README.md              # Project documentation
 └── InsuranceClaimPrediction.ipynb # Jupyter Notebook with EDA and training logic
-
+```
+## Improvement
+* **Hyperparameter Tuning:** Utilizes `GridSearchCV` to optimize the model.
